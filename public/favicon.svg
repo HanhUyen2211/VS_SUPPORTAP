@@ -1,0 +1,7 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 64 64" role="img" aria-labelledby="title">
+  <title>DS HDCN</title>
+  <rect width="64" height="64" rx="14" fill="#030164"/>
+  <path d="M19 10h18l10 10v34H19a4 4 0 0 1-4-4V14a4 4 0 0 1 4-4Z" fill="#fff"/>
+  <path d="M37 10v12h12" fill="#d9f4e8"/>
+  <path d="m25 31-6 5 6 5m14-10 6 5-6 5m-4-12-4 14" fill="none" stroke="#41a67e" stroke-linecap="round" stroke-linejoin="round" stroke-width="3.5"/>
+</svg>
